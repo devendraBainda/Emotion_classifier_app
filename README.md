@@ -156,15 +156,6 @@ streamlit run app.py
 
 ---
 
-## 📈 Future Improvements
-
-- Add support for real-time microphone input
-- Deploy model as cloud-based API
-- Incorporate attention-based models (Transformers)
-- Expand to multilingual datasets
-- Integrate video emotion recognition for multimodal analysis
-
----
 
 ## 🔖 Author
 
