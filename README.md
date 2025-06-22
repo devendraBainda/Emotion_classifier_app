@@ -20,6 +20,7 @@ The goal of this project is to design and implement an end-to-end pipeline for *
 ## 🗂 Dataset
 
 The dataset used is the **RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)** dataset.
+Dataset link - https://zenodo.org/records/1188976#.XCx-tc9KhQI
 
 - Total recordings: **9808 audio samples**
 - Emotions classified:
